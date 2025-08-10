@@ -1,0 +1,21 @@
+{
+  "name": "bomberworld-backend",
+  "version": "2.0.0",
+  "description": "Bomberworld multiplayer game server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.5.4",
+    "uuid-random": "^1.3.2",
+    "cors": "^2.8.5"
+  },
+  "engines": {
+    "node": "18.x"
+  },
+  "glitch": {
+    "projectType": "node"
+  }
+}
