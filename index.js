@@ -9,8 +9,9 @@ const corsOptions = {
       'http://localhost:3000',
       'http://localhost:8080',
       'http://localhost:8000',
-      'https://yourdomain.com',  // CHANGE THIS to your actual domain
-      'https://www.yourdomain.com',  // CHANGE THIS to your actual domain
+      'https://darkthronegame.com',  // CHANGE THIS to your actual domain
+      'https://www.darkthronegame.com',  // CHANGE THIS to your actual domain
+      'https://bomberworld-backend.onrender.com',  // Your backend URL
       // Add any other domains you want to allow
     ];
     
